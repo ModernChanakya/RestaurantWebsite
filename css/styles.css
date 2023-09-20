@@ -1,0 +1,102 @@
+/* Your CSS styles go here */
+
+/* Example header styles */
+header {
+    background-color: #003471;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Example CSS for improved visual appeal */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #003471;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin-left: 10px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+/* Add styles to other sections as needed */
+
+/* Style buttons */
+button {
+    background-color: #df1d1d;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 650px;
+    margin-bottom: 30px;
+    align-items: center;
+}
+
+button:hover {
+    background-color: #df1d1d;
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin-left: 10px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+/* Example menu item styles */
+#menu {
+    /* Add styles for the menu section */
+    padding: 0%;
+    margin: auto;
+}
+
+/* Example reservation form styles */
+#reservation {
+    /* Add styles for the reservation section */
+}
+
+/* Example gallery styles */
+#gallery {
+    /* Add styles for the gallery section */
+}
+
+/* Example map styles */
+#location {
+    /* Add styles for the location/map section */
+}
+
+img {
+    width: 300px; /* Adjust to your desired width */
+    height: auto; /* Automatically adjust the height to maintain aspect ratio */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
